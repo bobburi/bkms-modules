@@ -5,7 +5,7 @@ variable "project_id" {
 
 variable "network_name" {
   type        = string
-  description = "The name of the VPC."
+  # description = "The name of the VPC."
 }
 
 variable "subnets" {
